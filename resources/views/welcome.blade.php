@@ -11,11 +11,11 @@
 <body>
     <div class="container">
         <div class="title_class">
-            <h1>Hello, world</h1>
+            <h1>Hello, user</h1>
         </div>
         <div class="menu_atm">
-            <h3>Withdrawal of cash using a card</h3>
-            <h3>Withdrawal of cash without a card (additional fee)</h3>
+            <button type="button">Withdrawal of cash using a card</button>
+            <button type="button">Withdrawal of cash without a card (additional fee)</button> 
         </div>
     </div>
 </body>
