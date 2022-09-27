@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/withdraw', function () {
     return view('withdraw');
 });
+
+Route::get('/top_money', function () {
+    return view('top_money');
+});
