@@ -14,8 +14,8 @@
             <h1>Hello, user</h1>
         </div>
         <div class="menu_atm">
-            <button type="button">Top up the card</button>
-            <button type="button">Withdrawal of cash</button> 
+            <a href="/top_money"><button type="button">Top up the card</button></a>
+            <a href="/withdraw"><button type="button">Withdrawal of cash</button></a> 
         </div>
     </div>
 </body>
